@@ -11,6 +11,10 @@ body {
   background-position: left;
 }
 
+#Hero-Section h1, p {
+  color: black;
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
@@ -19,6 +23,7 @@ body {
   background-size: cover;
   background-position: center;
 }
+
 
 /* Contacto */
 
@@ -36,4 +41,8 @@ body {
     width: 100px;
   }
 
+}
+
+.img-fluid {
+  width: 50%;
 }
